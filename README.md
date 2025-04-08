@@ -32,8 +32,7 @@ pip install -r requirements.txt
 Arquivos Necessários
 .env: Este arquivo deve conter sua chave da API do OpenAI. Exemplo:
 
-ini
-Copiar
+init
 OPENAI_API_KEY=your-openai-api-key
 GOOGLE_API_KEY=your-google-api-key
 Dados de entrada: Para rodar o sistema, é necessário ter documentos da Constituição Federal de 1988 ou outro conteúdo legal em PDF. O diretório padrão onde os PDFs são carregados é data/leis.
